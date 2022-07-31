@@ -1,3 +1,3 @@
 # Practice the coding 
 
-This repositery has the different types of coding 
+This repository has the different types of coding 
